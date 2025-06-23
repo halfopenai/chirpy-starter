@@ -3,7 +3,7 @@ layout: post
 title:  "我的第一篇 Jekyll 博客"
 author: Holohe
 date:   2025-06-19 10:00:00 +0800
-categories: [jekyll, update]
+categories: [Jekyll, update]
 toc: true
 ---
 
